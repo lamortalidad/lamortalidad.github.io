@@ -7,7 +7,7 @@ We provide basic mortality data for seven (7) Latin American countries. We did n
 ## Data availability
 
 <p align="center">
-  <img src="" alt="Size Limit CLI" width="360">
+  <img src="table_LAHMD.png" alt="Size Limit CLI" width="360">
 </p>
 
 ## Country Data
