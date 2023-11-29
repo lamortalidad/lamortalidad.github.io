@@ -3,6 +3,6 @@ The web-site aims at disseminating human mortality data and literature of human 
 
 
 <p align="center">
-  <img src="https://github.com/lamortalidad/lamortalidad.github.io/blob/a0d398ef00b05efab3f630d6eaf82f72aa050c1b/Logo3.png" alt="Size Limit CLI" width="240">
+  <img src="https://github.com/lamortalidad/lamortalidad.github.io/blob/a0d398ef00b05efab3f630d6eaf82f72aa050c1b/Logo3.png" alt="Size Limit CLI" width="320">
 </p>
 
