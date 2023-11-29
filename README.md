@@ -32,8 +32,7 @@ Tables include what is described in their titles in excel format. Country level 
 
 ## Chile
 
-
-
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/4da49a27f296e8295d055d4f9ac939b0f3bd191e/data/SEX-AGE-REGIONS-CAUSE_CHI.xlsx"> Death Counts, by age, sex, causes of death and regions </a></li>
 
 ## Ecuador
 
