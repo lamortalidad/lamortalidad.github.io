@@ -38,6 +38,7 @@ Tables include what is described in their titles in excel format. Country level 
 
 ## Mexico 
 
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/be3509a5fed0210d0e8bc2429038e08e52c568d8/data/Brazil_Deaths.txt"> Total Death Counts, by age and sex </a></li>
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/e2155fcf9ea7f86db81613c9e0139ed09472685a/data/Mexico_Population.txt"> Population, by age and sex  </a></li>
 
