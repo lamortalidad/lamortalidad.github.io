@@ -3,7 +3,7 @@ The web-site aims at disseminating human mortality data and literature of human 
 
 
 <p align="center">
-  <img src="lamortalidad_v1.png" alt="Size Limit CLI" width="180">
+  <img src="lamortalidad_v1.png" alt="Size Limit CLI" width="360">
 </p>
 
 ## Country Data
