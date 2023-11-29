@@ -36,6 +36,8 @@ Tables include what is described in their titles in excel format. Country level 
 
 ## Ecuador
 
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/f46cf0075deda8c249df7706c99cb42143ab32b8/data/SEX-AGE-REGION-_-CAUSE_ECU.xlsx"> Death Counts, by age, sex, causes of death and regions </a></li>
+
 
 ## Mexico 
 
