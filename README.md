@@ -39,7 +39,7 @@ Tables include what is described in their titles in excel format. Country level 
 ## Mexico 
 
 
-<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/432cf68df8c58b8cf9d270e0c7268ae73750d627/data/Peru_Population.txt"> Population, by age and sex  </a></li>
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/e2155fcf9ea7f86db81613c9e0139ed09472685a/data/Mexico_Population.txt"> Population, by age and sex  </a></li>
 
 ## Peru
 
