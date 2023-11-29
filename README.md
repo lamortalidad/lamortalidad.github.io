@@ -4,6 +4,7 @@ The web-site aims at disseminating human mortality data and literature of human 
 ## Information about data
 We provide basic mortality data for seven (7) Latin American countries. We did not perform any adjustment in the data. That is, raw data are available and should be treated properly by researchers. Please, note that the structure of the data varies for country and year. We did not try to harmonize the data, over time and by country, in order to have the longest period of information as possible. Mortality data is known for its limitations: errors in age declaration, under-registration of death counts and others. Users should be aware of such limitations. Please bear in mind that the web-site is always under construction.
 
+
 ## Country Data
 Tables include what is described in their titles in excel format. Country level data, death counts and population, are also avalaible in TXT format for Argentina, Brazil, Colombia and Peru. For each excel file you will find different tabs corresponding to a particular year. For instance, death records by age, sex and province for Peru are found under the sub-title Peru in our link “Country Data”. After you click in PER, Deaths by age, sex and region the table with the data will open-up and each tab is named with the information for the corresponding year.
 
