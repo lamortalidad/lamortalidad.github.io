@@ -33,3 +33,10 @@ Population, by age and sex
 
 
 ## Peru
+Total Death Counts, by age and sex
+<li><a href=""> Data in TXT file</a></li>
+Population, by age and sex 
+<li><a href=""> Data in TXT file</a></li>
+
+
+
