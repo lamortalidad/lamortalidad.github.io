@@ -51,5 +51,30 @@ Tables include what is described in their titles in excel format. Country level 
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/432cf68df8c58b8cf9d270e0c7268ae73750d627/data/Peru_Population.txt"> Population, by age and sex  </a></li>
 
+# Citations Guideline and Conditions
+
+The Latin America Human Mortality Database (LAHMD) is provided free of charge. Users are asked to read carefully the following conditions.
+
+It is the responsibility of all users of the LAHMD to give proper credit to the institutions and/or individuals who have created the data being provided or transmitted here. Proper citation is necessary whether the data in question are quoted in formal publications or in any other context. The following comments are intended to assist users by providing information about LAHMD data sources and by offering suggestions for appropriate citation procedures.
+
+If you are using our original mortality data by either combination of age, sex, region and/or causes of death, we suggest the following format for a bibliographic citation (please do always cite with the English version name, for uniformity):
+
+Latin American Human Mortality Database. B. Piedad Urdinola and Bernardo L. Queiroz . Available at www.lamortalidad.org (data downloaded on [date]).
+
+Data available on the LAHMD may be provided by external sources, such as World Health Organization, United Nations Population Division and National Statistics Offices. In situations where data come from external sources, the user should identify and cite the original source, merely acknowledging the LAHMD as the intermediary.
+
+Users are also asked not to distribute downloaded data to other individuals. Instead, refer them to the LAHMD web site, where they can download the data by themselves. Since the database will be updated on regular basis, this practice will favour the acquisition of up-to-date data. It will also ensure that each user has complete access to information regarding the data, citation guidelines, etc.
+
+We have been very careful in assembling and manipulating the data presented here and we would appreciate your help in identifying and reporting any inaccuracies. The members of the LAHMD research team, as well as the institutional sponsors, accept no liability in regards to the material available in the collection. In particular, we do not accept responsibility for any inconvenience that may result in using these data, even if such inconvenience is caused by our own error.
+
+We intend to update the LAHMD on regular basis and to provide convenient access to the data via the Internet. However, we do not accept responsibility for any inconvenience that may result from a temporary or permanent suspension of service.
+
+It should be noted that these data are transmitted on the understanding that no use will be made of them for commercial purposes and that no such permission or right to use may be implied thereby..
+
+Please, send any comments, suggestions to lamortalidade@gmail.com
+
+Note: The text above has been adapted from the Canadian Human Mortality Database (http://www.bdlc.umontreal.ca/chmd/), the Human Mortality Database web site (www.mortality.org) and WHO Mortality Database website (http://www.who.int/healthinfo/morttables/en/) .
+
+
 
 
