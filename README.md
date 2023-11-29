@@ -11,7 +11,6 @@ Tables include what is described in their titles in excel format. For each excel
 
 
 ## Argentina
-Total Death Counts, by age and sex
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/68ec3005ee377c4aca20a3d3f7d22309707ebe81/data/Argentina_Deaths.txt"> Total Death Counts, by age and sex </a></li>
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/ba0c79f889ef1c99a59484a14ad180ad16bfd966/data/Argentina_Population.txt"> Population, by age and sex </a></li>
@@ -22,7 +21,7 @@ Total Death Counts, by age and sex
 
 ## Colombia
 
-
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/e4e24230d296e2a5d2f6e93f797df17d5c5ccf9b/data/Colombia_Deaths.txt"> Total Death Counts, by age and sex </a></li>
 
 
 
