@@ -15,3 +15,6 @@ Total Death Counts, by age and sex
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/68ec3005ee377c4aca20a3d3f7d22309707ebe81/data/Argentina_Deaths.txt"> Data in TXT file</a></li>
 Population, by age and sex 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/ba0c79f889ef1c99a59484a14ad180ad16bfd966/data/Argentina_Population.txt"> Data in TXT file</a></li>
+
+
+## Brazil 
