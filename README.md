@@ -11,4 +11,7 @@ Tables include what is described in their titles in excel format. For each excel
 
 
 ## Argentina
-Total Death Counts, by age and sex: <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/68ec3005ee377c4aca20a3d3f7d22309707ebe81/data/Argentina_Deaths.txt"> Data in TXT file</a></li>
+Total Death Counts, by age and sex 
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/68ec3005ee377c4aca20a3d3f7d22309707ebe81/data/Argentina_Deaths.txt"> Data in TXT file</a></li>
+Population, by age and sex 
+<li><a href=""> Data in TXT file</a></li>
