@@ -39,7 +39,7 @@ Tables include what is described in their titles in excel format. Country level 
 
 ## Chile
 
-<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/e007bd3f68f05e1f33b6cd7d38adbef6170f1a5b/data/SEX-AGE_ARG.xlsx"> Death Counts, by age and sex </a></li>
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/cc1a9f50fbe04c5804f73b5d611ea770a05d35af/data/SEX-AGE-CHI.xlsx"> Death Counts, by age and sex </a></li>
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/4da49a27f296e8295d055d4f9ac939b0f3bd191e/data/SEX-AGE-REGIONS-CAUSE_CHI.xlsx"> Death Counts, by age, sex, causes of death and regions </a></li>
 
