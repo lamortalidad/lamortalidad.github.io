@@ -76,11 +76,11 @@ Tables include what is described in their titles in excel format. Country level 
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/432cf68df8c58b8cf9d270e0c7268ae73750d627/data/Peru_Population.txt"> Population, by age and sex  </a></li>
 
-<li><a href=""> Death Counts, by age and sex </a></li>
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/05b84fa49c4a62892407922ed7ee5d0524ff3d2b/data/SEXAGE_PER.xlsx"> Death Counts, by age and sex </a></li>
 
-<li><a href=""> Death Counts, by age, sex and regions </a></li>
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/05b84fa49c4a62892407922ed7ee5d0524ff3d2b/data/SEXAGEREGION_PER.xlsx"> Death Counts, by age, sex and regions </a></li>
 
-<li><a href=""> Death Counts, by age, sex, causes of death and regions </a></li>
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/05b84fa49c4a62892407922ed7ee5d0524ff3d2b/data/SEX-AGE-REGION-CAUSE_PER.xlsx"> Death Counts, by age, sex, causes of death and regions </a></li>
 
 # Citations Guideline and Conditions
 
