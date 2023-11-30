@@ -59,6 +59,8 @@ Tables include what is described in their titles in excel format. Country level 
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/59bf28ea997972c2f104dfe0b764c053d5443704/data/SEX-AGE_ECU.xlsx"> Death Counts, by age and sex </a></li>
 
+<li><a href=""> Death Counts, by age, sex and regions </a></li>
+
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/f46cf0075deda8c249df7706c99cb42143ab32b8/data/SEX-AGE-REGION-_-CAUSE_ECU.xlsx"> Death Counts, by age, sex, causes of death and regions </a></li>
 
 
