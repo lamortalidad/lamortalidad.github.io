@@ -42,7 +42,7 @@ Tables include what is described in their titles in excel format. Country level 
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/aa6f98a24caf96f3aa18e1d9ae73f4b210e9a555/data/Colombia_Population.txt"> Population, by age and sex </a></li>
 
-<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/e007bd3f68f05e1f33b6cd7d38adbef6170f1a5b/data/SEX-AGE_ARG.xlsx"> Death Counts, by age and sex </a></li>
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/bb66633201f096a22028177994d0e249ec8b2cb3/data/SEX-AGE_COL-1.xlsx"> Death Counts, by age and sex </a></li>
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/aa942533bc10d12b61bba802ceae604a4f86eb30/data/SEX-AGE-REGION_ARG.xlsx"> Death Counts, by age, sex and regions </a></li>
 
