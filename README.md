@@ -66,7 +66,7 @@ It is the responsibility of all users of the LAHMD to give proper credit to the 
 
 If you are using our original mortality data by either combination of age, sex, region and/or causes of death, we suggest the following format for a bibliographic citation (please do always cite with the English version name, for uniformity):
 
-Latin American Human Mortality Database. B. Piedad Urdinola and Bernardo L. Queiroz . Available at www.lamortalidad.org (data downloaded on [date]).
+Latin American Human Mortality Database. B. Piedad Urdinola and Bernardo L. Queiroz . Available at lamortalidad.github.io (data downloaded on [date]).
 
 Data available on the LAHMD may be provided by external sources, such as World Health Organization, United Nations Population Division and National Statistics Offices. In situations where data come from external sources, the user should identify and cite the original source, merely acknowledging the LAHMD as the intermediary.
 
