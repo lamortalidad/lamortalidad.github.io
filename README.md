@@ -19,8 +19,9 @@ Tables include what is described in their titles in excel format. Country level 
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/ba0c79f889ef1c99a59484a14ad180ad16bfd966/data/Argentina_Population.txt"> Population, by age and sex </a></li>
 
-<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/ed4e8c2402cd5a3542f962d3640ffb9fec8ce3de/data/SEX-AGE-REGION-CAUSE-ARG.xlsx"> Death Counts, by age, sex, causes of death and regions </a></li>
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/e007bd3f68f05e1f33b6cd7d38adbef6170f1a5b/data/SEX-AGE_ARG.xlsx"> Death Counts, by age and sex </a></li>
 
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/ed4e8c2402cd5a3542f962d3640ffb9fec8ce3de/data/SEX-AGE-REGION-CAUSE-ARG.xlsx"> Death Counts, by age, sex, causes of death and regions </a></li>
 
 ## Brazil 
 
