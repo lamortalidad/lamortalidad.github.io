@@ -1,6 +1,10 @@
 # Latin America Human Mortality Database
 The web-site aims at disseminating human mortality data and literature of human mortality in Latin America, in order to provide detailed information for researchers, students, policy makers and the general public interested in knowing trends and developments in the study of mortality in the region. The project is inspired by The Human Mortality Database (www.mortality.org) and is the result of joint work of Prof. B. Urdinola of the National University of Colombia, Bogota Department of Statistics and Professor Bernardo Lanza Queiroz Depto of Demography and CEDEPLAR, UFMG, Belo Horizonte-Brazil. The project now is funded by our own resources. In the past, we received funding from the Population Association of America (www.popassoc.org) and the Research Direction of  Universidad Nacional de Colombia-Bogotá (DIB www.dib.unal.edu.co).  At present the database contains detailed information on mortality for seven countries in Latin America: Argentina, Brazil, Colombia, Chile, Ecuador, Mexico and Peru. All information is broken down by age, sex, region and cause of death. Additionally there is information on the academic literature on the study of mortality for these same countries.
 
+<p align="center">
+  <img src="lamortalidad_v1.png" alt="Size Limit CLI" width="180">
+</p>
+
 ## Information about data
 We provide basic mortality data for seven (7) Latin American countries. We did not perform any adjustment in the data. That is, raw data are available and should be treated properly by researchers. Please, note that the structure of the data varies for country and year. We did not try to harmonize the data, over time and by country, in order to have the longest period of information as possible. Mortality data is known for its limitations: errors in age declaration, under-registration of death counts and others. Users should be aware of such limitations. Please bear in mind that the web-site is always under construction.
 
@@ -86,10 +90,6 @@ Please, send any comments, suggestions to lamortalidade@gmail.com
 
 Note: The text above has been adapted from the Canadian Human Mortality Database (http://www.bdlc.umontreal.ca/chmd/), the Human Mortality Database web site (www.mortality.org) and WHO Mortality Database website (http://www.who.int/healthinfo/morttables/en/) .
 
-
-<p align="center">
-  <img src="lamortalidad_v1.png" alt="Size Limit CLI" width="360">
-</p>
 
 ## Acknowledgments
 
