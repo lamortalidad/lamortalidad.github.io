@@ -72,6 +72,10 @@ Tables include what is described in their titles in excel format. Country level 
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/main/data/SEX_AGE_REGION_CAUSE_MEX_1979_1990.xlsx"> Total Death Counts, by age, sex, causes of deaths and regions - 1979-1990 </a></li>
 
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/main/data/SEX_AGE_REGION_CAUSE_MEX_1991_2000.xlsx"> Total Death Counts, by age, sex, causes of deaths and regions - 1991-2000 </a></li>
+
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/main/data/SEX_AGE_REGION_CAUSE_MEX_1991_2000.xlsx"> Total Death Counts, by age, sex, causes of deaths and regions - 1991-2000 </a></li>
+
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/e2155fcf9ea7f86db81613c9e0139ed09472685a/data/Mexico_Population.txt"> Population, by age and sex  </a></li>
 
 
