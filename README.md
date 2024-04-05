@@ -35,6 +35,8 @@ Tables include what is described in their titles in excel format. Country level 
 
 <li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/51a7e0da3ec7bac814d7d69e0e79cf204d0d405c/data/Brazil_Population.txt"> Population, by age and sex </a></li>
 
+<li><a href="https://github.com/lamortalidad/lamortalidad.github.io/blob/main/data/AGE_SEX_BRAZIL.xlsx"> Death Counts, by age and sex, 1979 - 2022 </a></li>
+
 
 ## Colombia
 
